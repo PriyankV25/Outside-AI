@@ -55,6 +55,7 @@ Thumbs.db
 # TypeScript Cache
 *.tsbuildinfo
 next-env.d.ts
+.next/
 
 # Testing & Coverage
 /coverage
