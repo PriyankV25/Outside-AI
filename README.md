@@ -1,4 +1,5 @@
-# 🌲 OUTSIDE — The Screen-Free Outdoor Exploration OS
+# 🌲 OUTSIDE — The Screen-Free Outdoor Exploration
+#devchallenge #hf26challenge
 
 > **A modern, privacy-first web application designed to help people disconnect from screens and reconnect with the living world.**
 
