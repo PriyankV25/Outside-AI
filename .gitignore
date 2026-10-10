@@ -52,6 +52,8 @@ Thumbs.db
 *.sln
 *.sw?
 
+node_modules/
+
 # TypeScript Cache
 *.tsbuildinfo
 next-env.d.ts
